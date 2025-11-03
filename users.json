@@ -1,0 +1,20 @@
+[
+    {
+        "id": "690748c61d692",
+        "username": "Mark",
+        "email": "Torres@gmil.com",
+        "password": "$2y$10$CfOLzsQcodVCgJ8dt1jkiuqXLY57dVeths9sMipMH.pxGER4Ahsw.",
+        "created_at": "2025-11-02 13:04:22",
+        "last_login": "2025-11-02 15:03:27",
+        "is_active": true
+    },
+    {
+        "id": "69076961c62ae",
+        "username": "Crislyn",
+        "email": "Crislyn@gmail.com",
+        "password": "$2y$10$Z95Lk9tHbscOag4fj1ZZWOJ1y3eARcCkYBG6Pn6AzkXM1glnlVwti",
+        "created_at": "2025-11-02 15:23:30",
+        "last_login": "2025-11-02 15:23:30",
+        "is_active": true
+    }
+]
